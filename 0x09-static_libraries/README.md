@@ -1,0 +1,1 @@
+The contents of this directory is the solutions to the tasks in 0x09-static_libraries project and the files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
