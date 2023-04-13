@@ -1,0 +1,1 @@
+This contents of this directory is the solutions to the tasks in 0x0C-more_malloc_free project and will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
