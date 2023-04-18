@@ -24,5 +24,7 @@ dog_t *new_dog(char *name, float age, char *owner);
 int _strlen(char *str);
 char *_strcpy(char *s1, char *s2);
 
+void free_dog(dog_t *d);
+
 
 #endif /* DOG_H */
