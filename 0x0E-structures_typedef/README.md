@@ -1,0 +1,1 @@
+The files in this directory are the solutions to the various tasks in the 0x0E-structures_typedef project and will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
